@@ -1,2 +1,7 @@
+sejuk,31,0.14
+dekat,32,0.15
 aakm,216,1.00
+ramah,22,0.10
 bagus,129,0.60
+bersih,36,0.17
+rapi,30,0.14

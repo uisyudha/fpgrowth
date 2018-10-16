@@ -1,3 +1,15 @@
-aakm:1.00
-aakm bagus:0.60
+ramah:0.10
+ramah aakm:0.10
+rapi:0.14
+rapi aakm:0.14
+sejuk:0.14
+sejuk aakm:0.14
+dekat:0.15
+dekat aakm:0.15
+bersih:0.17
+bersih aakm:0.17
+bersih aakm bagus:0.10
+bersih bagus:0.10
 bagus:0.60
+bagus aakm:0.60
+aakm:1.00
