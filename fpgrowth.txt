@@ -1,0 +1,3 @@
+aakm:1.00
+aakm bagus:0.60
+bagus:0.60
